@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="insert">Insert</string>
+    <string name="view">view</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="name">Name</string>
+    <string name="emp_id">Emp id</string>
+    <string name="designation">Designation</string>
+    <string name="department">Department</string>
+</resources>
